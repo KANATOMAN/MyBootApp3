@@ -3,8 +3,8 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>jp.te4a.spring.boot.myapp2</groupId>
-  <artifactId>MyBootApp2</artifactId>
+  <groupId>jp.te4a.spring.boot.myapp3</groupId>
+  <artifactId>MyBootApp3</artifactId>
   <version>1.0-SNAPSHOT</version>
 
 <parent>
@@ -13,7 +13,7 @@
  <version>3.2.4</version>
  </parent>
 
-  <name>MyBootApp2</name>
+  <name>MyBootApp3</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 

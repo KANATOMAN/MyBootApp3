@@ -14,7 +14,7 @@ public String index() {
 return "Hello, Spring Boot!";
 }
 @RequestMapping("/miyagi")
-public String taro(){
+public String miyagi(){
     return"miyagi desu!";
 }
 }

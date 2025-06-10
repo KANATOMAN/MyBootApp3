@@ -13,8 +13,8 @@ public class HelloController
 public String index() {
 return "Hello, Spring Boot!";
 }
-@RequestMapping("/taro")
+@RequestMapping("/miyagi")
 public String taro(){
-    return"taro desu!";
+    return"miyagi desu!";
 }
 }

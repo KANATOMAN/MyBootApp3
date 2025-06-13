@@ -50,6 +50,11 @@
   </dependency>
 </dependencies>
 
+<dependency>
+    <groupId>javax.servlet</groupId>
+    <artifactId>jstl</artifactId>
+</dependency>
+
  <build>
  <plugins>
  <plugin> 
